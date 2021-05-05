@@ -29,6 +29,7 @@ p {
 .banner .content h2 {
     font-size: 5em;
     color: #fff;
+    line-spaceing: 2px;
 }
 .banner .content p {
     font-size: 1em;
