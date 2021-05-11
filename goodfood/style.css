@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Ariel', sans-serif;
+    border: 0;
 }
 p {
     font-weight: 300;
