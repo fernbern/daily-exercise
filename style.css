@@ -99,6 +99,7 @@ header.sticky .navigation li a  {
 }
 header.sticky .navigation li a:hover  {
     color: #ff0157;
+    letter-spacing: 6px;
 }
 section {
     padding: 100px; 
