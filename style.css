@@ -22,6 +22,7 @@ p {
     align-items: center;
     background: url('img/bg.jpg');
     background-size: cover;
+    color: #333;
 }
 .banner .content {
     max-width: 900px;
