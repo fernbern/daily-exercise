@@ -12,6 +12,7 @@ body {
 p {
     font-weight: 300;
     color: #111;
+    letter-spacing:6px;
 }
 .banner {
     position: relative;
