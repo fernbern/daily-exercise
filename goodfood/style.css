@@ -22,6 +22,7 @@ p {
 .banner .content {
     max-width: 900px;
     text-align: center;
+    letter-spacing: 5px;
 }
 .banner .content h2 {
     font-size: 5em;
